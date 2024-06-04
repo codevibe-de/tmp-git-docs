@@ -2,8 +2,14 @@
 
 ## Nutzen
 
+Das Subcommand `add` fügt eine oder mehrere Änderungen an Dateien dem Index hinzu.
+
+Der Index spiegelt stets den kompletten Projektstand wider, es ist also
+NICHT nur die Menge der festzuschreibenden Änderungen.
+
 ## Beispiele
+Alle Änderungen aufnehmen: git add .
 
 ## Verweise
 
-* [Dies ist ein Beispiel-Link](template.md)
+* [git-status](git-status.md)
