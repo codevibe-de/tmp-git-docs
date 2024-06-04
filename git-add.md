@@ -2,8 +2,9 @@
 
 ## Nutzen
 
+Fügt Datei(en) dem Index hinzu.
+
 ## Beispiele
 
 ## Verweise
 
-* [Dies ist ein Beispiel-Link](template.md)
