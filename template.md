@@ -2,7 +2,11 @@
 
 ## Nutzen
 
+## Relevante Optionen
+
 ## Beispiele
+
+## Hinweise
 
 ## Verweise
 
