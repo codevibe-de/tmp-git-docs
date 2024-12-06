@@ -15,6 +15,9 @@ Die Datei datei.txt wird dem Index hinzugefügt, d. h., sie ist jetzt bereit, in
 _git add datei1.txt datei2.txt_
 
 Beide Dateien werden gleichzeitig zum Index hinzugefügt.
+`git add test.txt`
+`git add :/*.csv`
+`git add README.md /src/main/java src/main/resources/*.csv`
 
 _git add ._
 
