@@ -15,3 +15,11 @@ NICHT nur die Menge der festzuschreibenden Änderungen.
 ## Verweise
 
 * [git-status](git-status.md)
+
+## Flags
+### .
+Fügt alle Änderungen dem Staging Bereich hinzu.
+
+### -u
+Fügt alle feänderten und gelöschten Dateien dem Staging Bereich hinzu. Nicht jedoch neue oder ungetrackte Dateien.
+
